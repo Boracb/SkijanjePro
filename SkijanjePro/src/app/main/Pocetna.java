@@ -7,7 +7,6 @@ import javax.swing.UnsupportedLookAndFeelException;
 
 import app.databaseConnection.KreiranjeTablicaBaza;
 import app.databaseConnection.SpajanjeNaBazu;
-import app.utility.Excel;
 import app.view.PocetniProzor;
 import app.view.Proba;
 import app.view.ProbaMenu;
